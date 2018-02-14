@@ -9,7 +9,7 @@ http.get('http://www.omdbapi.com/?apikey=44269ab5&t=frozen', (resp) => {
 
   // A chunk of data has been recieved.
   resp.on('data', (chunk) => {
-	alert('Inside the function!');
+	//alert('Inside the function!');
     data += chunk;
   });
 
