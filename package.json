@@ -1,0 +1,14 @@
+{
+  "name": "webhook-moviesworld-sample",
+  "version": "1.0.0",
+  "description": "Webhook moviesworld sample",
+  "main": "index2.js",
+  "scripts": {
+    "start": "node index2.js"
+  },
+  "author": "Akanksha Yadav",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
